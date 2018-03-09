@@ -6,10 +6,11 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0-beta.40",
+    "bootstrap-vue": "^2.0.0-rc.1",
     "meteor-node-stubs": "^0.3.2",
     "vue": "^2.0.0",
-    "vue-router": "^2.0.0",
-    "vue-meteor-tracker": "^1.0.3"
+    "vue-meteor-tracker": "^1.0.3",
+    "vue-router": "^2.0.0"
   },
   "devDependencies": {}
 }
